@@ -5,8 +5,8 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Table of Contents
 
--   [Trainings and Certifications](https://chat.openai.com/c/58b53c71-74b7-4700-b5d1-1ecc9f07d804#trainings-and-certifications)
--  [Passed Certifications](https://chat.openai.com/c/58b53c71-74b7-4700-b5d1-1ecc9f07d804#certifications)
+-   [Trainings and Certifications](#trainings-and-certifications)
+-  [Passed Certifications](#passed-certifications)
 
 ## Trainings and Certifications
 
