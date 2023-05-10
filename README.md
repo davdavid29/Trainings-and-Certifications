@@ -5,14 +5,14 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Table of Contents
 
--   [Trainings and Certifications](#trainings-and-certifications)
--  [Passed Certifications](#passed-certifications)
+-	[Trainings and Certifications](#trainings-and-certifications)
+-	[Passed Certifications](#passed-certifications)
 
 ## Trainings and Certifications
 
 -   [**AWS Introduction to Cloud 101**](https://www.credly.com/badges/33ca67ad-0e36-4f5f-ab17-655aaa5e874d/linked_in_profile) by AWS Educate (Apr 2022) - This training course covered the fundamentals of cloud computing and Amazon Web Services (AWS).
 
--   [**SQL**](https://www.sololearn.com/certificates/CT-RNHNIWK6) by Sololearn (Dec 2022)  &   **Introduction to SQL** by Simplilearn (Jan 2023)  - This training course provided a comprehensive introduction to SQL, covering the following topics:
+-   [**SQL**](https://www.sololearn.com/certificates/CT-RNHNIWK6) by Sololearn (Dec 2022)  &   **[Introduction to SQL](https://simpli-web.app.link/e/FC3NiF6GGwb)** by Simplilearn (Jan 2023)  - This training course provided a comprehensive introduction to SQL, covering the following topics:
 	-   Database fundamentals
 	-   Data definition language (DDL) and data manipulation language (DML)
 	-   Select statements
@@ -53,3 +53,4 @@ This repository contains a list of trainings and certifications I have completed
 	   -   Backup and recovery strategies
 	   -   Common database architectures
 
+  
