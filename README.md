@@ -1,4 +1,6 @@
 
+
+
 # Trainings and Certifications
 
 This repository contains a list of trainings and certifications I have completed throughout my career.
@@ -7,6 +9,7 @@ This repository contains a list of trainings and certifications I have completed
 
 -	[Trainings and Certifications](#trainings-and-certifications)
 -	[Passed Certifications](#passed-certifications)
+-	[Photos](#photos)
 
 ## Trainings and Certifications
 
@@ -53,4 +56,28 @@ This repository contains a list of trainings and certifications I have completed
 	   -   Backup and recovery strategies
 	   -   Common database architectures
 
-  
+
+## Photos
+
+### Professional Certifications:
+
+<img src="images/aws-educate.png" alt="AWS Educate" height="auto" width="850">
+
+<img src="images/certified-sql-developer.png" alt="Certified SQL Developer" height="auto" width="850">
+
+|  |  | 
+|----------|----------|
+| <img src="images/aws-introduction-to-cloud-101.png" width="400" height="auto"> | <img src="images/sql-sololearn.png" width="400" height="auto"> | 
+| <img src="images/introduction-to-sql-simplilearn.png" width="400" height="auto"> | <img src="images/advanced-sql-part-1.png" width="400" height="auto"> |
+| <img src="images/advanced-sql-part-2.png" width="400" height="auto"> | <img src="images/data-engineering-linkedin-learning.png" width="400" height="auto"> |
+|  |  | 
+
+### Other Certifications:
+
+|  |  | 
+|----------|----------|
+| <img src="images/hytec1.JPG" width="400" height="auto"> | <img src="images/hytec2.JPG" width="400" height="auto"> | 
+| <img src="images/hytec2.JPG" width="400" height="auto"> | <img src="images/hytec3.JPG" width="400" height="auto"> | 
+| <img src="images/hytec5.JPG" width="400" height="auto"> |  | 
+|  |  | 
+
