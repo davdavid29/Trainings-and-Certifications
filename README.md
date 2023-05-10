@@ -65,6 +65,8 @@ This repository contains a list of trainings and certifications I have completed
 
 <img src="images/certified-sql-developer.png" alt="Certified SQL Developer" height="auto" width="850">
 
+<img src="images/zero-to-snowflakesnowflake.png" alt="Zero to Snowflake Virtual Hand-On Lab" height="auto" width="850">
+
 |  |  | 
 |----------|----------|
 | <img src="images/aws-introduction-to-cloud-101.png" width="400" height="auto"> | <img src="images/sql-sololearn.png" width="400" height="auto"> | 
