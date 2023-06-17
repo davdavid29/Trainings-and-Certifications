@@ -40,7 +40,14 @@ This repository contains a list of trainings and certifications I have completed
 	-   Data storage and management
 	-   Querying and optimizing data with Snowflake
 	-   Advanced topics, such as security and governance
-    
+
+ -	[**ChatGPT: Complete ChatGPT Course For Work 2023**](https://www.udemy.com/certificate/UC-fde000ad-7d42-40c5-bbe6-26aaaf94a1dd/) by Udemy (Jun 2023) - Learned on this course:
+	- 	Using ChatGPT To Dramatically Increase Your Productivity. Hot Tips That Many Are Not Aware Of.
+   	-	Using ChatGPT To Improve Your Writing Skills & Shorten Writing Time.
+	-	Leveraging ChatGPT For Regular Tasks Like Email, Report Writing, Blogs, Presentation Scripts, And Much More.
+	-	Surprising Areas Like Code Debugging, Translation, & Summarizing Long Documents You Need To Read.
+	-	Use ChatGPT To Educate Yourself In Soft Skills & Hard Skills. Virtually No Limit.
+	-	Demo Of Many Ways You Can Use ChatGPT At Work Plus Some Personal Ways You Can Use It As Well.
 
 ## Passed Certifications
     
