@@ -1,6 +1,3 @@
-
-
-
 # Trainings and Certifications
 
 This repository contains a list of trainings and certifications I have completed throughout my career.
@@ -10,6 +7,7 @@ This repository contains a list of trainings and certifications I have completed
 -	[Trainings and Certifications](#trainings-and-certifications)
 -	[Passed Certifications](#passed-certifications)
 -	[Photos](#photos)
+-	[LeetCode](#leetcode)
 
 ## Trainings and Certifications
 
@@ -63,7 +61,6 @@ This repository contains a list of trainings and certifications I have completed
 	   -   Backup and recovery strategies
 	   -   Common database architectures
 
-
 ## Photos
 
 ### Professional Certifications:
@@ -90,3 +87,8 @@ This repository contains a list of trainings and certifications I have completed
 | <img src="images/hytec5.JPG" width="400" height="auto"> |  | 
 |  |  | 
 
+## LeetCode
+
+-   LeetCode profile: [**https://leetcode.com/davdavid29/**](https://leetcode.com/davdavid29/)
+-   [**LeetCode SQL Solved Problems**](https://leetcode.com/davdavid29/)
+  
