@@ -1,3 +1,4 @@
+
 # Trainings and Certifications
 
 This repository contains a list of trainings and certifications I have completed throughout my career.
@@ -46,6 +47,13 @@ This repository contains a list of trainings and certifications I have completed
 	-	Surprising Areas Like Code Debugging, Translation, & Summarizing Long Documents You Need To Read.
 	-	Use ChatGPT To Educate Yourself In Soft Skills & Hard Skills. Virtually No Limit.
 	-	Demo Of Many Ways You Can Use ChatGPT At Work Plus Some Personal Ways You Can Use It As Well.
+-	[**Philippine Data Privacy Act of 2012 (PDPA) and the UK General Data Protection Regulation (UK GDPR)**](https://www.udemy.com/certificate/UC-56a003ec-de59-447b-9bd2-f110b0b7ae1c/) by Udemy (Sept 2023) - This course gives employees an overview of two (2) regulations in Data Privacy namely the  **Philippine Data Privacy Act of 2012 (PDPA) and the UK General Data Protection Regulation (UK GDPR)**. The course will cover the following topics:
+	-	The definition of personal information
+	-	The types of personal information that are protected under the PDPA and UK GDPR
+	-	The principles of data privacy
+	-	The rights of data subjects
+	-	The obligations of organizations that process personal information
+	-	The penalties for violating the PDPA and UK GDPR
 
 ## Passed Certifications
     
@@ -91,4 +99,3 @@ This repository contains a list of trainings and certifications I have completed
 
 -   LeetCode profile: [**https://leetcode.com/davdavid29/**](https://leetcode.com/davdavid29/)
 -   [**LeetCode SQL Solved Problems**](https://leetcode.com/davdavid29/)
-  
