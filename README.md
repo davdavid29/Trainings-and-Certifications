@@ -47,6 +47,7 @@ This repository contains a list of trainings and certifications I have completed
 	-	Surprising Areas Like Code Debugging, Translation, & Summarizing Long Documents You Need To Read.
 	-	Use ChatGPT To Educate Yourself In Soft Skills & Hard Skills. Virtually No Limit.
 	-	Demo Of Many Ways You Can Use ChatGPT At Work Plus Some Personal Ways You Can Use It As Well.
+
 -	[**Philippine Data Privacy Act of 2012 (PDPA) and the UK General Data Protection Regulation (UK GDPR)**](https://www.udemy.com/certificate/UC-56a003ec-de59-447b-9bd2-f110b0b7ae1c/) by Udemy (Sept 2023) - This course gives employees an overview of two (2) regulations in Data Privacy namely the  **Philippine Data Privacy Act of 2012 (PDPA) and the UK General Data Protection Regulation (UK GDPR)**. The course will cover the following topics:
 	-	The definition of personal information
 	-	The types of personal information that are protected under the PDPA and UK GDPR
@@ -54,6 +55,9 @@ This repository contains a list of trainings and certifications I have completed
 	-	The rights of data subjects
 	-	The obligations of organizations that process personal information
 	-	The penalties for violating the PDPA and UK GDPR
+
+-	[**Emerging Leader Training**](https://www.credential.net/c8109d0b-53f5-42fd-870b-da12e2ca08a4#gs.6dho8c) by Inchcape Digital (Oct 2023) - This digital credential is awarded to Inchapers who have attended, completed and exhibited the skills and knowledge from the Emerging Leader Training: The Next Generation. The recipients of this digital credential possess the essential competencies that makes an Inchcape Digital Leader best-in-class as they exhibit One Inchcape Values and Behaviour.
+
 
 ## Passed Certifications
     
