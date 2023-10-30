@@ -1,4 +1,3 @@
-
 # Trainings and Certifications
 
 This repository contains a list of trainings and certifications I have completed throughout my career.
@@ -58,6 +57,18 @@ This repository contains a list of trainings and certifications I have completed
 
 -	[**Emerging Leader Training**](https://www.credential.net/c8109d0b-53f5-42fd-870b-da12e2ca08a4#gs.6dho8c) by Inchcape Digital (Oct 2023) - This digital credential is awarded to Inchapers who have attended, completed and exhibited the skills and knowledge from the Emerging Leader Training: The Next Generation. The recipients of this digital credential possess the essential competencies that makes an Inchcape Digital Leader best-in-class as they exhibit One Inchcape Values and Behaviour.
 
+-	[**Analyzing and Visualizing Data with Microsoft Power BI**](https://www.udemy.com/certificate/UC-9fcbdf7a-c838-4d71-8a5d-5c8b8ccb3587/) by Udemy (Oct 2023) - This course will help you in starting with Power BI in no time from scratch, you will learn :
+	-	**Installing**  Power BI
+	-	**Getting Data**  in Power BI from  **various sources**
+	-	**Modify and clean the data**  as per the need
+	-	**Merging/Joining**  various data streams
+	-	**Visualizing data**  using various methods
+	-	Using various features of Power BI to  **enrich the data/visualization**
+	-	Doing  **What-If Analysis**  on the data
+	-	**Publishing**  them to web
+	-	Using Power BI services to  **find insights**  from Data
+	-	Creating Power BI  **Reports and Dashboards**
+	-	Consuming  **Power BI on Mobile**
 
 ## Passed Certifications
     
