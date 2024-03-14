@@ -69,6 +69,9 @@ This repository contains a list of trainings and certifications I have completed
 	-	Using Power BI services to  **find insights**  from Data
 	-	Creating Power BI  **Reports and Dashboards**
 	-	Consuming  **Power BI on Mobile**
+-	[**Advanced SQL Server Performance Tuning**](https://www.udemy.com/certificate/UC-95ac1709-d619-4220-b3c9-95bcfb3dcead/) by Udemy (Mar 2024) - This course will give  **YOU**  deeper insight into what it takes to become a skilled  **PERFORMANCE TUNER**. Once thought of as an art, performance tuning is nothing more than a series of processes that seek to accomplish  **TWO**  basic goals.
+		1. The FIRST one is to  **increase the  _response time_**  for a given transaction or set of transactions.
+		2. The SECOND one is  **reduce  _resource consumption_**. On the surface this sounds simple but nothing could be further from the truth.
 
 ## Passed Certifications
     
