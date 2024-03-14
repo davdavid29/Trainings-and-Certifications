@@ -12,8 +12,8 @@ This repository contains a list of trainings and certifications I have completed
 ## Trainings and Certifications
 
 -	[**Advanced SQL Server Performance Tuning**](https://www.udemy.com/certificate/UC-95ac1709-d619-4220-b3c9-95bcfb3dcead/) by Udemy (Mar 2024) - This course will give  **YOU**  deeper insight into what it takes to become a skilled  **PERFORMANCE TUNER**. Once thought of as an art, performance tuning is nothing more than a series of processes that seek to accomplish  **TWO**  basic goals.
-		1. The FIRST one is to  **increase the  _response time_**  for a given transaction or set of transactions.
-		2. The SECOND one is  **reduce  _resource consumption_**. On the surface this sounds simple but nothing could be further from the truth.
+	-	The FIRST one is to  **increase the  _response time_**  for a given transaction or set of transactions.
+	-	The SECOND one is  **reduce  _resource consumption_**. On the surface this sounds simple but nothing could be further from the truth.
 
 -	[**Analyzing and Visualizing Data with Microsoft Power BI**](https://www.udemy.com/certificate/UC-9fcbdf7a-c838-4d71-8a5d-5c8b8ccb3587/) by Udemy (Oct 2023) - This course will help you in starting with Power BI in no time from scratch, you will learn :
 	-	**Installing**  Power BI
