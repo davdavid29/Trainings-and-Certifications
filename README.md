@@ -109,18 +109,15 @@ This repository contains a list of trainings and certifications I have completed
 
 ### Professional Certifications:
 
-<img src="images/aws-educate.png" alt="AWS Educate" height="auto" width="850">
+<img src="images/ms-az-900-certification.png" alt="Microsoft Certified: Azure Fundamentals" height="auto" width="850">
 
 <img src="images/certified-sql-developer.png" alt="Certified SQL Developer" height="auto" width="850">
 
-<img src="images/zero-to-snowflakesnowflake.png" alt="Zero to Snowflake Virtual Hand-On Lab" height="auto" width="850">
+<img src="images/aws-educate.png" alt="AWS Educate" height="auto" width="850">
 
-|  |  | 
-|----------|----------|
-| <img src="images/aws-introduction-to-cloud-101.png" width="400" height="auto"> | <img src="images/sql-sololearn.png" width="400" height="auto"> | 
-| <img src="images/introduction-to-sql-simplilearn.png" width="400" height="auto"> | <img src="images/advanced-sql-part-1.png" width="400" height="auto"> |
-| <img src="images/advanced-sql-part-2.png" width="400" height="auto"> | <img src="images/data-engineering-linkedin-learning.png" width="400" height="auto"> |
-|  |  | 
+<img src="images/aws-introduction-to-cloud-101.png" alt="AWS Introduction to Cloud 101" height="auto" width="850">
+
+<img src="images/zero-to-snowflakesnowflake.png" alt="Zero to Snowflake Virtual Hand-On Lab" height="auto" width="850">
 
 ### Other Certifications:
 
