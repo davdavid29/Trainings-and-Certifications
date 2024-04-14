@@ -1,4 +1,3 @@
-
 # Trainings and Certifications
 
 This repository contains a list of trainings and certifications I have completed throughout my career.
@@ -33,6 +32,16 @@ This repository contains a list of trainings and certifications I have completed
 	-	Using Power BI services to  **find insights**  from Data
 	-	Creating Power BI  **Reports and Dashboards**
 	-	Consuming  **Power BI on Mobile**
+
+[**Personal Data Breach Training**](https://www.udemy.com/certificate/UC-c428f97d-3f99-4a9f-a3db-60d29b799d1c/) by **Udemy (Oct 2023)**
+- This course / module / training discusses how to handle data breaches for Inchcape Digital Philippines employees.
+	- Module contents:
+		- What is personal data?
+		- What is personal data breach?
+		- Causes of security incidents on personal data.
+		- Types of security incidents on personal data.
+		- How are personal data classified?
+		- Personal data breach notification procedure.
 
 [**Emerging Leader Training**](https://www.credential.net/c8109d0b-53f5-42fd-870b-da12e2ca08a4#gs.6dho8c) by **Inchcape Digital (Oct 2023)**
 - This digital credential is awarded to Inchapers who have attended, completed and exhibited the skills and knowledge from the Emerging Leader Training: The Next Generation held in Acacia Hotel Manila from October 12-13, 2023 . The recipients of this digital credential possess the essential competencies that makes an Inchcape Digital Leader best-in-class as they exhibit One Inchcape Values and Behaviour.
