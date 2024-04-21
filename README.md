@@ -11,6 +11,24 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**(Refresher) MySQL Bootcamp: Go from SQL Beginner to Expert**](https://www.udemy.com/certificate/UC-9b41a09b-cf8a-497d-a92e-5cb568ba82cf/) by **Udemy (Apr 2024)**
+- This course was **just completely redone and rebuilt**  from the ground up, with over 325 brand new videos recorded. The course now uses  **MySQL 8.x**  and covers new topics including:  **Window Functions**,  **Views**, and **SQL modes**.
+- If you want to learn how to gain insights from data but are too intimidated by databases to know where to start, then this course is for you. This course is a gentle but comprehensive introduction to MySQL, one of the  **most highly in-demand skills**  in the business sector today.
+- Whether you work in sales or marketing, you run your own company, or you want to build your own apps, mastering MySQL is crucial to answering complex business problems and questions using insights from data.  _The Ultimate MySQL Bootcamp_  introduces you to a solid foundation in databases in a way that’s both informative and engaging. Yes, that’s right, it’s possible to make an engaging course on databases.
+- In this course, you will:
+	- Learn the ins and outs of  **SQL syntax**
+	- Generate reports using  **sales and user data**
+	- Analyze data using  **Aggregate Functions**
+	- Run complex queries using MySQL **logical operators and string functions**
+	- Write all the common  **SQL joins**
+	- Work with  **large datasets containing thousands of entries**
+	- Design and implement complex database schemas
+	- Learn to navigate the treacherous world of storing dates and times
+	- Clone the database structure of a  **photo sharing social network**
+	- Work with  **MySQL 8.x Window Functions**: RANK, LEAD, LAG, NTILE, etc.
+	- Create  **MySQL database views**  and virtual tables
+- This course is also chock full of **exercises, challenges, projects, and opportunities**  for you to practice what you’re learning. Apply what you’re learning to real-world challenges such as finding a website’s power users, calculating your top students, identifying bots on a site, or determining which hashtags generate the most traction on a site.
+  
 [**AZ-900: Microsoft Azure Fundamentals Exam Prep**](https://www.udemy.com/certificate/UC-b311f136-8598-4d01-8acc-78d12d9040d5/) by **Udemy (Apr 2024)**
 - Learn the fundamentals of Azure, and get certified, with this complete beginner's AZ-900 course, includes practice test!
 
