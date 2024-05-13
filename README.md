@@ -11,6 +11,9 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**Leading Effective Meetings**](https://www.udemy.com/certificate/UC-7f9e20b0-99da-4e95-821a-69808ab526cd/) by **Udemy (May 2024)**
+- Learn how to effectively plan, run, & manage meetings of any kind. Increase your team's productivity & participation
+
 [**(Refresher) MySQL Bootcamp: Go from SQL Beginner to Expert**](https://www.udemy.com/certificate/UC-9b41a09b-cf8a-497d-a92e-5cb568ba82cf/) by **Udemy (Apr 2024)**
 - This course was **just completely redone and rebuilt**  from the ground up, with over 325 brand new videos recorded. The course now uses  **MySQL 8.x**  and covers new topics including:  **Window Functions**,  **Views**, and **SQL modes**.
 - If you want to learn how to gain insights from data but are too intimidated by databases to know where to start, then this course is for you. This course is a gentle but comprehensive introduction to MySQL, one of the  **most highly in-demand skills**  in the business sector today.
