@@ -11,6 +11,9 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**Presentation Skills: Give a Great Team Presentation**](https://www.udemy.com/certificate/UC-7aa5f959-279f-4842-8e79-113f9be8159c/) by **Udemy (May 2024)**
+- In this course, you will learn how to develop messages, make team assignments, and practice your presentations, as a team. Most team presentations are dreadful and boring because executives tell themselves "I'm now giving a team presentation, so of course, we all have to read boring bullet-point messages off of a PowerPoint slide because that is how serious business people do things." This is a fallacy. TJ Walker is an expert Presentation Skills coach who has prepped and rehearsed executives from major corporations and institutions around the world on how to make better team presentations. 
+
 [**Leading Effective Meetings**](https://www.udemy.com/certificate/UC-7f9e20b0-99da-4e95-821a-69808ab526cd/) by **Udemy (May 2024)**
 - Learn how to effectively plan, run, & manage meetings of any kind. Increase your team's productivity & participation
 
