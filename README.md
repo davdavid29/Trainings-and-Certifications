@@ -11,6 +11,13 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**Feedback & Perfomance Management**](https://www.udemy.com/certificate/UC-6e0d2f86-c63a-44b2-96ae-6bcf0ec92226/) by **Udemy (May 2024)**
+- What you'll learn in this course are the following:
+	- How to build trust within teams, within organizations, or as a new manager.
+ 	- Verbal, group, and digital communication skills associated with performance management and giving and soliciting feedback.
+  	- Specific modalities for soliciting and giving feedback (e.g. group feedback, digital feedback, one-on-ones, coaching, and more).
+  	- The fundamentals of people operations, people analytics, and the movement towards continuous feedback and continuous performance improvement practices. 
+  
 [**Presentation Skills: Give a Great Team Presentation**](https://www.udemy.com/certificate/UC-7aa5f959-279f-4842-8e79-113f9be8159c/) by **Udemy (May 2024)**
 - In this course, you will learn how to develop messages, make team assignments, and practice your presentations, as a team. Most team presentations are dreadful and boring because executives tell themselves "I'm now giving a team presentation, so of course, we all have to read boring bullet-point messages off of a PowerPoint slide because that is how serious business people do things." This is a fallacy. TJ Walker is an expert Presentation Skills coach who has prepped and rehearsed executives from major corporations and institutions around the world on how to make better team presentations. 
 
