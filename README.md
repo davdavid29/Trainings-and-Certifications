@@ -1,3 +1,4 @@
+
 # Trainings and Certifications
 
 This repository contains a list of trainings and certifications I have completed throughout my career.
@@ -10,6 +11,21 @@ This repository contains a list of trainings and certifications I have completed
 -	[LeetCode](#leetcode)
 
 ## Trainings and Certifications
+
+[**Azure Data Factory For Data Engineers**](https://www.udemy.com/certificate/UC-15304280-6299-4037-960e-dc8a461b64d8/) by **Udemy (August 2024)**
+- What you'll learn in this course (Azure Data Factory For Data Engineers - Project on Covid19) are the following:
+	-   How to build a real-world data pipeline in Azure Data Factory (ADF).
+	-   Data Engineering skills in Azure using ADF, Azure Data Lake Storage Gen2, Azure SQL Database, and Azure Monitor.
+	-   How to ingest data from sources like HTTP and Azure Blob Storage into Azure Data Lake Gen2 using ADF.
+	-   How to transform data using Data Flows in ADF and load it into Azure Data Lake Storage Gen2.
+	-   How to transform data using Databricks Notebook Activity in ADF and load it into Azure Data Lake Storage Gen2.
+	-   How to transform data using Azure HDInsight Activity in ADF and load it into Azure Data Lake Storage Gen2.
+	-   How to load transformed data from Azure Data Lake Storage Gen2 to Azure SQL Database using ADF.
+	-   Extensive knowledge about Triggers in ADF and how to use them to schedule data pipelines.
+	-   How to monitor pipelines using ADF, Azure Monitor, and Log Analytics with a real-world project.
+	-   How to build production-ready pipelines, including best practices and naming standards.
+	-   Topics required for the Azure Data Engineer Associate Certification Exam DP203 related to ADF.
+	-   How to create CI/CD pipelines in Azure DevOps to release ADF pipelines to higher environments (Testing/Production).
 
 [**Feedback & Perfomance Management**](https://www.udemy.com/certificate/UC-6e0d2f86-c63a-44b2-96ae-6bcf0ec92226/) by **Udemy (May 2024)**
 - What you'll learn in this course are the following:
