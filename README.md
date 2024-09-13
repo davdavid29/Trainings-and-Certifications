@@ -145,7 +145,10 @@ This repository contains a list of trainings and certifications I have completed
 -	This training course covered the fundamentals of cloud computing and Amazon Web Services (AWS).
 
 ## Passed Certifications
-    
+
+**[Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/davdavid29/906D15D7E665DD4A?sharingId=65EB120B76C95D80)** by **Microsoft (Sep 2024)**
+- The Microsoft DP-900 Azure Data Fundamentals certification assesses foundational knowledge of core data concepts and Microsoft Azure data services, catering to individuals beginning their journey in data management and analytics. Covering essential topics like relational and non-relational data, data workloads, data processing, and analytics on Azure, this certification validates an understanding of fundamental database concepts and the implementation of Azure data solutions. Passing the exam demonstrates competence in describing core data concepts, identifying key Azure data services, and comprehending the fundamentals of data storage, processing, and analysis on Azure.
+
 **[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/davdavid29/credentials/c844766dc454a6ba?ref=https%3A%2F%2Fwww.linkedin.com%2F)** by **Microsoft (Apr 2024)**
 - The Microsoft AZ-900 Azure Fundamentals certification assesses foundational knowledge of cloud services and Microsoft Azure, catering to beginners in cloud computing. Covering essential concepts like cloud models, core Azure services, pricing, governance, security, and monitoring, the certification validates an understanding of fundamental cloud principles and Azure functionalities. Passing the exam demonstrates competence in describing basic cloud concepts, identifying key Azure services, and comprehending Azure pricing, governance, security, and monitoring fundamentals.
  
