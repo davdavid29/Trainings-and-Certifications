@@ -12,6 +12,20 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**Agile Scrum Mastery**](https://www.udemy.com/certificate/UC-c7b603cd-f90f-49b1-ada4-47b18ebd4190/) by **Udemy (Sep 2024)**
+- What you'll get in this course:  
+	- A proven formula developed and refined over 4 years, that maximizes your chance of  **passing PSM 1 on your first attempt [Students experience 98% pass rate]**
+	- The only course that covers both 
+		- a) how to  **pass PSM (Professional Scrum Master™) 1 Certification**  & 
+		- b) how to  **succeed in a Scrum team**  via real world project simulations run in JIRA, Confluence & Physical Scrum boards.
+	- 6.5 hours of courses taught in a fun & engaging format, with a focus on  **learning by doing**.
+	- Over  **500 exclusive practice exam** questions that let you study in both  
+		- **a) learning mode &** 
+		- **b) exam simulation mode**
+	- Access to our community of over  **3,800 professionals**  for networking, collaboration & group study. 
+	- Detailed PSM 1 study notes designed to help you  **quickly review and revise study material**, before taking the PSM 1 exam.  
+	- The instructor,  **Raj Elakkara**, has over 15 years of experience coaching Agile teams in both large Fortune 500 companies (such as FedEx, GE, Canva & Atlassian.) & startups. This course is the result of extensive research into Passing Scrum certification & learning real-world Agile in an online study format.
+
 [**Azure Data Factory For Data Engineers**](https://www.udemy.com/certificate/UC-15304280-6299-4037-960e-dc8a461b64d8/) by **Udemy (August 2024)**
 - What you'll learn in this course (Azure Data Factory For Data Engineers - Project on Covid19) are the following:
 	-   How to build a real-world data pipeline in Azure Data Factory (ADF).
