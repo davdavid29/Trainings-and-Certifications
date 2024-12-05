@@ -12,6 +12,16 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**Mastering Collaboration: Work together for the best results**](https://www.udemy.com/certificate/UC-2e6abebc-714d-4e94-a181-7f5fa0106d43/) by **Udemy (Dec 2024)**
+- What you'll learn:  
+	-	The benefits of collaboration and why it’s an essential part of how businesses get work done today
+	-	The fundamentals of forming and leading a collaborative team
+	-	Online collaboration and how to effectively collaborate across different teams
+	-	What you need to create and support a thriving culture of collaboration
+	-	How to ensure collaborative teams work successfully within a company
+	-	How to organize and get the most out of collaborative meetings
+	-	Collaboration lessons you can apply from different industries
+	
 [**Agile Scrum Mastery**](https://www.udemy.com/certificate/UC-c7b603cd-f90f-49b1-ada4-47b18ebd4190/) by **Udemy (Sep 2024)**
 - What you'll get in this course:  
 	- A proven formula developed and refined over 4 years, that maximizes your chance of  **passing PSM 1 on your first attempt [Students experience 98% pass rate]**
