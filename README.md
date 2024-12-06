@@ -12,6 +12,12 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**Basic Git and Github Essentials**](https://www.udemy.com/certificate/UC-5fecbd8e-2d33-444e-a374-60a5e577cdb8/) by **Udemy (Dec 2024)**
+- What you'll learn:  
+	- Use Git effectively to manage any project
+	- Manage a commercial project using Git
+	- Use the GitHub website
+	
 [**Mastering Collaboration: Work together for the best results**](https://www.udemy.com/certificate/UC-2e6abebc-714d-4e94-a181-7f5fa0106d43/) by **Udemy (Dec 2024)**
 - What you'll learn:  
 	-	The benefits of collaboration and why it’s an essential part of how businesses get work done today
