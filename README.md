@@ -12,6 +12,19 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**(Refresher) Microsoft SQL for Beginners**](https://www.udemy.com/certificate/UC-a6b7d864-d69a-44be-84ed-331f4fd02f0b/) by **Udemy (Dec 2024)**
+- What you'll learn:  
+	- Complete literal SELECT statements.
+	- Filter data using the WHERE clause
+	- Learn about database design and normalization
+	- Understand the difference between the INNER JOIN, LEFT/RIGHT OUTER JOIN, and FULL OUTER JOIN
+	- Group data together using the GROUP BY clause
+	- Complete basic SELECT statements querying against a single table
+	- Sort data using the ORDER BY clause
+	- Using joins, return columns from multiple tables in the same query
+	- Complete SQL statements that use aggregate functions
+	- Filter groups of data using the HAVING clause
+
 [**Basic Git and Github Essentials**](https://www.udemy.com/certificate/UC-5fecbd8e-2d33-444e-a374-60a5e577cdb8/) by **Udemy (Dec 2024)**
 - What you'll learn:  
 	- Use Git effectively to manage any project
