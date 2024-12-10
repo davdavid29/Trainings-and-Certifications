@@ -12,6 +12,14 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**Effective Delegation - How To Delegate Work & Responsibility**](https://www.udemy.com/certificate/UC-8885b3c6-534f-4689-88ec-ca794eaf769f/) by **Udemy (Dec 2024)**
+- What you'll learn:  
+	-   Exhibit greater competence and confidence in assigning work and responsibilities through Effective Delegation
+	-   Prevent miscommunication when setting tasks and expectations when you delegate tasks
+	-   Empower and motivate staff to handle more difficult assignments with effective delegation
+	-   Foster greater teamwork, cooperation, and collaboration through clear explanation of roles and authority with your new Delegation Skills
+	-   Influence peers and team members to share your responsibilities
+
 [**(Refresher) Microsoft SQL for Beginners**](https://www.udemy.com/certificate/UC-a6b7d864-d69a-44be-84ed-331f4fd02f0b/) by **Udemy (Dec 2024)**
 - What you'll learn:  
 	- Complete literal SELECT statements.
