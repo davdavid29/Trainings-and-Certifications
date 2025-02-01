@@ -48,6 +48,15 @@ This repository contains a list of trainings and certifications I have completed
 	-	How to ensure collaborative teams work successfully within a company
 	-	How to organize and get the most out of collaborative meetings
 	-	Collaboration lessons you can apply from different industries
+
+[**Goal Crushing: Use OKRs to achieve business results**](https://www.udemy.com/certificate/UC-b672c3fa-e1c4-483d-942d-cedc7641d15a/) by **Udemy (Nov 2024)**
+- What you'll learn:  
+ 	-	You will learn what the Objectives and Key Results (OKR) framework is and why it is useful
+  	-	You will learn how to communicate the value of your work to your colleagues by writing strong, metric-driven OKRs
+  	-	You will learn models for how goals can cascade and practice cascading goals on your own
+  	-	You will write value-based key results with different types of metrics that demonstrate the results you are driving for the business
+  	-	You will learn methods for documenting your goals
+  	-	You will write your own value-based OKRs
 	
 [**Agile Scrum Mastery**](https://www.udemy.com/certificate/UC-c7b603cd-f90f-49b1-ada4-47b18ebd4190/) by **Udemy (Sep 2024)**
 - What you'll get in this course:  
