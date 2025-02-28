@@ -12,6 +12,9 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**DP-300: Azure Relational Database Administrator Exam Prep**](https://www.udemy.com/certificate/UC-e95fd280-3147-4cb9-959e-4ba2e0a7c836/)  by  **Udemy (Mar 2025)**
+- Learn Azure Database Administration, and get certified, with this complete beginner's DP-300 course, includes practice test!
+
 [**Effective Delegation - How To Delegate Work & Responsibility**](https://www.udemy.com/certificate/UC-8885b3c6-534f-4689-88ec-ca794eaf769f/) by **Udemy (Dec 2024)**
 - What you'll learn:  
 	-   Exhibit greater competence and confidence in assigning work and responsibilities through Effective Delegation
