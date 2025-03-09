@@ -12,11 +12,22 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**The Complete Guide to Becoming a Software Architect**](https://www.udemy.com/certificate/UC-6c302a85-4e09-4fc9-9902-e620eeee65fa/)  by  **Udemy (Mar 2025)**
+- What you'll learn:
+	- Practical, proven techniques to becoming a great Software Architect.
+ 	- The exact role of the Software Architect
+  	- Adopting Software Architect's mindset
+  	- Architectural Patterns used in almost any software system
+  	- Design Patterns to make the code more readable and easy to maintain
+  	- Crucial Soft Skills that will make your work much easier
+  	- Role and structure of the Architecture Document
+  	- Advanced architectural patterns for extreme cases
+
 [**DP-300: Azure Relational Database Administrator Exam Prep**](https://www.udemy.com/certificate/UC-e95fd280-3147-4cb9-959e-4ba2e0a7c836/)  by  **Udemy (Mar 2025)**
 - Learn Azure Database Administration, and get certified, with this complete beginner's DP-300 course, includes practice test!
 
 [**Effective Delegation - How To Delegate Work & Responsibility**](https://www.udemy.com/certificate/UC-8885b3c6-534f-4689-88ec-ca794eaf769f/) by **Udemy (Dec 2024)**
-- What you'll learn:  
+ What you'll learn:  
 	-   Exhibit greater competence and confidence in assigning work and responsibilities through Effective Delegation
 	-   Prevent miscommunication when setting tasks and expectations when you delegate tasks
 	-   Empower and motivate staff to handle more difficult assignments with effective delegation
