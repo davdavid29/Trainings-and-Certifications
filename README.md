@@ -220,6 +220,9 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Passed Certifications
 
+**[Microsoft Certified: Azure Database Administrator Associate](https://learn.microsoft.com/en-us/users/davdavid29/credentials/75e0cc27d618862a)** by **Microsoft (Mar 2025)**
+- The Microsoft DP-300 Azure Database Administrator Associate certification assesses expertise in managing and implementing Microsoft Azure database solutions, catering to professionals responsible for database administration and optimization. Covering essential topics such as database security, performance monitoring, backup and recovery, high availability, and automation, this certification validates proficiency in administering and securing Azure SQL databases. Passing the exam demonstrates competence in configuring and maintaining Azure database environments, optimizing database performance, implementing security measures, and ensuring business continuity through backup and recovery strategies.
+
 **[Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/davdavid29/906D15D7E665DD4A?sharingId=65EB120B76C95D80)** by **Microsoft (Sep 2024)**
 - The Microsoft DP-900 Azure Data Fundamentals certification assesses foundational knowledge of core data concepts and Microsoft Azure data services, catering to individuals beginning their journey in data management and analytics. Covering essential topics like relational and non-relational data, data workloads, data processing, and analytics on Azure, this certification validates an understanding of fundamental database concepts and the implementation of Azure data solutions. Passing the exam demonstrates competence in describing core data concepts, identifying key Azure data services, and comprehending the fundamentals of data storage, processing, and analysis on Azure.
 
