@@ -6,7 +6,7 @@ This repository contains a list of trainings and certifications I have completed
 ## Table of Contents
 
 -	[Trainings and Certifications](#trainings-and-certifications)
--	[Passed Certifications](#passed-certifications)
+-	[Passed Certification Exams](#passed-certification-exams)
 -	[Photos](#photos)
 -	[LeetCode](#leetcode)
 
@@ -218,7 +218,7 @@ This repository contains a list of trainings and certifications I have completed
 [**AWS Introduction to Cloud 101**](https://www.credly.com/badges/33ca67ad-0e36-4f5f-ab17-655aaa5e874d/linked_in_profile) by **AWS Educate (Apr 2022)**
 -	This training course covered the fundamentals of cloud computing and Amazon Web Services (AWS).
 
-## Passed Certifications
+## Passed Certification Exams
 
 **[Microsoft Certified: Azure Database Administrator Associate](https://learn.microsoft.com/en-us/users/davdavid29/credentials/75e0cc27d618862a)** by **Microsoft (Mar 2025)**
 - The Microsoft DP-300 Azure Database Administrator Associate certification assesses expertise in managing and implementing Microsoft Azure database solutions, catering to professionals responsible for database administration and optimization. Covering essential topics such as database security, performance monitoring, backup and recovery, high availability, and automation, this certification validates proficiency in administering and securing Azure SQL databases. Passing the exam demonstrates competence in configuring and maintaining Azure database environments, optimizing database performance, implementing security measures, and ensuring business continuity through backup and recovery strategies.
