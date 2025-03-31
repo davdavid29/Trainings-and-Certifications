@@ -245,6 +245,10 @@ This repository contains a list of trainings and certifications I have completed
 
 ### Professional Certifications:
 
+<img src="images/ms-dp-300-certification.png" alt="Microsoft Certified: Azure Fundamentals" height="auto" width="850">
+
+<img src="images/ms-dp-900-certification.png" alt="Microsoft Certified: Azure Fundamentals" height="auto" width="850">
+
 <img src="images/ms-az-900-certification.png" alt="Microsoft Certified: Azure Fundamentals" height="auto" width="850">
 
 <img src="images/certified-sql-developer.png" alt="Certified SQL Developer" height="auto" width="850">
