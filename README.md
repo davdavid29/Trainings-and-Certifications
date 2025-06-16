@@ -1,4 +1,3 @@
-
 # Trainings and Certifications
 
 This repository contains a list of trainings and certifications I have completed throughout my career.
@@ -12,6 +11,17 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**Microsoft Excel - Excel from Beginner to Advanced**](https://www.udemy.com/certificate/UC-d08d89d0-3496-4389-a102-27c283c7da20/)  by  **Udemy (May 2025)**
+ -	**The complete Microsoft Excel course — compatible with MS Office 365 and all Excel versions. Zero to HERO!**
+ -	What you'll learn:
+	- Start from scratch: Clear, practical lessons tailored for beginners.
+	- Master Excel with over **12.5 hours** of engaging, step-by-step tutorials.
+		- Acquire essential Excel skills within the first **2 hours**.
+	- Create professional, polished workbooks and spreadsheets.
+	- Management and analyzing data quickly and efficiently.
+	- Enhance productivity with AI (Artificial Intelligence) tools in Excel.
+	- Learn key topics: tables, charts, formatting, formulas, functions, macros, pivot tables, and more!
+
 [**The Complete Guide to Becoming a Software Architect**](https://www.udemy.com/certificate/UC-6c302a85-4e09-4fc9-9902-e620eeee65fa/)  by  **Udemy (Mar 2025)**
 - What you'll learn:
 	- Practical, proven techniques to becoming a great Software Architect.
@@ -24,10 +34,10 @@ This repository contains a list of trainings and certifications I have completed
   	- Advanced architectural patterns for extreme cases
 
 [**DP-300: Azure Relational Database Administrator Exam Prep**](https://www.udemy.com/certificate/UC-e95fd280-3147-4cb9-959e-4ba2e0a7c836/)  by  **Udemy (Mar 2025)**
-- Learn Azure Database Administration, and get certified, with this complete beginner's DP-300 course, includes practice test!
+-	Learn Azure Database Administration, and get certified, with this complete beginner's DP-300 course, includes practice test!
 
 [**Effective Delegation - How To Delegate Work & Responsibility**](https://www.udemy.com/certificate/UC-8885b3c6-534f-4689-88ec-ca794eaf769f/) by **Udemy (Dec 2024)**
- What you'll learn:  
+-	What you'll learn:  
 	-   Exhibit greater competence and confidence in assigning work and responsibilities through Effective Delegation
 	-   Prevent miscommunication when setting tasks and expectations when you delegate tasks
 	-   Empower and motivate staff to handle more difficult assignments with effective delegation
