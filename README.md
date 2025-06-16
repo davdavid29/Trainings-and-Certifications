@@ -11,7 +11,7 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
-[**Microsoft Excel - Excel from Beginner to Advanced**](https://www.udemy.com/certificate/UC-d08d89d0-3496-4389-a102-27c283c7da20/)  by  **Udemy (May 2025)**
+[**Microsoft Excel - Excel from Beginner to Advanced**](https://www.udemy.com/certificate/UC-d08d89d0-3496-4389-a102-27c283c7da20/)  by  **Udemy (June 2025)**
  -	**The complete Microsoft Excel course — compatible with MS Office 365 and all Excel versions. Zero to HERO!**
  -	What you'll learn:
 	- Start from scratch: Clear, practical lessons tailored for beginners.
