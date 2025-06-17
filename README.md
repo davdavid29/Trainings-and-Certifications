@@ -20,7 +20,7 @@ This repository contains a list of trainings and certifications I have completed
 	- Create professional, polished workbooks and spreadsheets.
 	- Management and analyzing data quickly and efficiently.
 	- Enhance productivity with AI (Artificial Intelligence) tools in Excel.
-	- Learn key topics: tables, charts, formatting, formulas, functions, macros, pivot tables, and more!
+	- Learn key topics: tables, charts, formatting, formulas, functions, macros, pivot tables, pivot charts, and more!
 
 [**The Complete Guide to Becoming a Software Architect**](https://www.udemy.com/certificate/UC-6c302a85-4e09-4fc9-9902-e620eeee65fa/)  by  **Udemy (Mar 2025)**
 - What you'll learn:
