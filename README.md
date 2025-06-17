@@ -21,6 +21,10 @@ This repository contains a list of trainings and certifications I have completed
 	- Management and analyzing data quickly and efficiently.
 	- Enhance productivity with AI (Artificial Intelligence) tools in Excel.
 	- Learn key topics: tables, charts, formatting, formulas, functions, macros, pivot tables, pivot charts, and more!
+- **Course Highlights**
+	- **Beginner to Advanced Progression**: The course starts with basic Excel operations and gradually introduces more complex features, ensuring a smooth learning curve.
+	- **Hands-On Learning**: Learners engage with practical exercises using downloadable workbooks to reinforce key concepts .
+	- **Advanced Tools**: Topics covered include formulas, functions, tables, charts, macros, pivot tables, and an introduction to AI-enhanced Excel features.
 
 [**The Complete Guide to Becoming a Software Architect**](https://www.udemy.com/certificate/UC-6c302a85-4e09-4fc9-9902-e620eeee65fa/)  by  **Udemy (Mar 2025)**
 - What you'll learn:
