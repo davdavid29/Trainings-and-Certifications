@@ -11,6 +11,15 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**Academy Accreditation - Databricks Fundamentals**](https://credentials.databricks.com/27d468e3-be24-4764-876c-ced02ef241ec#acc.isMYCJtI)  by  **Databricks Academy (Aug 2025)**
+- A foundational accreditation that validates knowledge of the Databricks Data Intelligence Platform and its core concepts.
+- What you'll learn:
+	- Understand the principles of the Databricks Lakehouse Platform.
+	- Explore key components: Workspace, clusters, notebooks, and SQL.
+	- Learn how Delta Lake powers scalable and reliable data management.
+	- Grasp the basics of data ingestion, transformation, and collaboration.
+	- Recognize how Databricks supports data engineering, data science, and BI use cases.
+
 [**Microsoft Excel - Excel from Beginner to Advanced**](https://www.udemy.com/certificate/UC-d08d89d0-3496-4389-a102-27c283c7da20/)  by  **Udemy (June 2025)**
  -	**The complete Microsoft Excel course — compatible with MS Office 365 and all Excel versions. Zero to HERO!**
  -	What you'll learn:
