@@ -11,6 +11,9 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**Databricks Certified Data Engineer Associate - Preparation**](https://www.udemy.com/certificate/UC-6408ecd1-aad0-4eed-af54-7419834269ad/)  by  **Udemy (Oct 2025)**
+-	Master the core concepts of data engineering on Databricks, including data ingestion, transformation, and optimization using the Lakehouse architecture. This comprehensive course prepares you to confidently pass the Databricks Certified Data Engineer Associate exam with hands-on labs and practice questions.
+
 [**Academy Accreditation - Databricks Fundamentals**](https://credentials.databricks.com/27d468e3-be24-4764-876c-ced02ef241ec#acc.isMYCJtI)  by  **Databricks Academy (Aug 2025)**
 - A foundational accreditation that validates knowledge of the Databricks Data Intelligence Platform and its core concepts.
 - What you'll learn:
