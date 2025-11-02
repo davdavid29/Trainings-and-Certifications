@@ -237,7 +237,10 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Passed Certification Exams
 
-[**Academy Accreditation - Databricks Fundamentals**](https://credentials.databricks.com/27d468e3-be24-4764-876c-ced02ef241ec#acc.isMYCJtI)  by  **Databricks Academy (Aug 2025)**
+[**Databricks Certified Data Engineer Associate**](https://credentials.databricks.com/6fc37c8f-4dae-4d00-a47b-722b38a75d12#acc.uD9G3jWE)  by  **Databricks (Oct 2025)**
+- The Databricks Certified Data Engineer Associate certification exam assesses an individual’s ability to use the Databricks Lakehouse Platform to complete introductory data engineering tasks. This includes an understanding of the Lakehouse Platform and its workspace, its architecture, and its capabilities. It also assesses the ability to perform multi-hop architecture ETL tasks using Apache Spark™ SQL and Python in both batch and incrementally processed paradigms. Finally, the exam assesses the tester’s ability to put basic ETL pipelines and Databricks SQL queries and dashboards into production while maintaining entity permissions. Individuals who pass this certification exam can be expected to complete basic data engineering tasks using Databricks and its associated tools.
+
+[**Academy Accreditation - Databricks Fundamentals**](https://credentials.databricks.com/27d468e3-be24-4764-876c-ced02ef241ec#acc.isMYCJtI)  by  **Databricks (Aug 2025)**
 - A foundational accreditation that validates knowledge of the Databricks Data Intelligence Platform and its core concepts.
 - What you'll learn:
 	- Understand the principles of the Databricks Lakehouse Platform.
