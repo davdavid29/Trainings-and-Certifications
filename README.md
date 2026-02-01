@@ -249,7 +249,7 @@ This repository contains a list of trainings and certifications I have completed
 	- Grasp the basics of data ingestion, transformation, and collaboration.
 	- Recognize how Databricks supports data engineering, data science, and BI use cases.
 
-**[Microsoft Certified: Azure Database Administrator Associate](https://learn.microsoft.com/en-us/users/davdavid29/credentials/75e0cc27d618862a)** by **Microsoft (Mar 2025)**
+**[Microsoft Certified: Azure Database Administrator Associate (2x Certified)](https://learn.microsoft.com/en-us/users/davdavid29/credentials/75e0cc27d618862a)** by **Microsoft (Mar 2025)**
 - The Microsoft DP-300 Azure Database Administrator Associate certification assesses expertise in managing and implementing Microsoft Azure database solutions, catering to professionals responsible for database administration and optimization. Covering essential topics such as database security, performance monitoring, backup and recovery, high availability, and automation, this certification validates proficiency in administering and securing Azure SQL databases. Passing the exam demonstrates competence in configuring and maintaining Azure database environments, optimizing database performance, implementing security measures, and ensuring business continuity through backup and recovery strategies.
 
 **[Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/davdavid29/906D15D7E665DD4A?sharingId=65EB120B76C95D80)** by **Microsoft (Sep 2024)**
