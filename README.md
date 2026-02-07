@@ -3,10 +3,15 @@
 This repository contains a list of trainings and certifications I have completed throughout my career.
 
 ## Table of Contents
--	[Trainings and Certifications](#trainings-and-certifications)
--	[Passed Certification Exams](#passed-certification-exams)
--	[Photos](#photos)
--	[LeetCode](#leetcode)
+- [Trainings and Certifications](#trainings-and-certifications)
+	- [Table of Contents](#table-of-contents)
+	- [Trainings and Certifications](#trainings-and-certifications-1)
+	- [Passed Certification Exams](#passed-certification-exams)
+	- [Photos](#photos)
+		- [AWS Exploratory and Learning Experience:](#aws-exploratory-and-learning-experience)
+		- [Snowflake:](#snowflake)
+		- [Other Certifications:](#other-certifications)
+	- [LeetCode](#leetcode)
 
 <!-- - [Trainings and Certifications](#trainings-and-certifications)
 	- [Table of Contents](#table-of-contents)
@@ -281,15 +286,13 @@ This repository contains a list of trainings and certifications I have completed
 ## Photos
 
 ### AWS Exploratory and Learning Experience:
-
 <img src="images/aws-educate.png" alt="AWS Educate" height="auto" width="850">
-
 <img src="images/aws-introduction-to-cloud-101.png" alt="AWS Introduction to Cloud 101" height="auto" width="850">
 
+### Snowflake:
 <img src="images/zero-to-snowflakesnowflake.png" alt="Zero to Snowflake Virtual Hand-On Lab" height="auto" width="850">
 
 ### Other Certifications:
-
 |  |  | 
 |----------|----------|
 | <img src="images/hytec1.JPG" width="400" height="auto"> | <img src="images/hytec2.JPG" width="400" height="auto"> | 
@@ -298,6 +301,5 @@ This repository contains a list of trainings and certifications I have completed
 |  |  | 
 
 ## LeetCode
-
 -   LeetCode profile: [**https://leetcode.com/davdavid29/**](https://leetcode.com/davdavid29/)
 -   [**LeetCode SQL Solved Problems**](https://leetcode.com/davdavid29/)
