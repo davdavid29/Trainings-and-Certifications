@@ -3,15 +3,10 @@
 This repository contains a list of trainings and certifications I have completed throughout my career.
 
 ## Table of Contents
-- [Trainings and Certifications](#trainings-and-certifications)
-	- [Table of Contents](#table-of-contents)
-	- [Trainings and Certifications](#trainings-and-certifications-1)
-	- [Passed Certification Exams](#passed-certification-exams)
-	- [Photos](#photos)
-		- [AWS Exploratory and Learning Experience:](#aws-exploratory-and-learning-experience)
-		- [Snowflake:](#snowflake)
-		- [Other Certifications:](#other-certifications)
-	- [LeetCode](#leetcode)
+-	[Trainings and Certifications](#trainings-and-certifications)
+-	[Passed Certification Exams](#passed-certification-exams)
+-	[Photos](#photos)
+-	[LeetCode](#leetcode)
 
 <!-- - [Trainings and Certifications](#trainings-and-certifications)
 	- [Table of Contents](#table-of-contents)
