@@ -4,10 +4,14 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Table of Contents
 
--	[Trainings and Certifications](#trainings-and-certifications)
--	[Passed Certification Exams](#passed-certification-exams)
--	[Photos](#photos)
--	[LeetCode](#leetcode)
+- [Trainings and Certifications](#trainings-and-certifications)
+	- [Table of Contents](#table-of-contents)
+	- [Trainings and Certifications](#trainings-and-certifications-1)
+	- [Passed Certification Exams](#passed-certification-exams)
+	- [Photos](#photos)
+		- [AWS Exploratory and Learning Experience:](#aws-exploratory-and-learning-experience)
+		- [Other Certifications:](#other-certifications)
+	- [LeetCode](#leetcode)
 
 ## Trainings and Certifications
 
@@ -272,15 +276,7 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Photos
 
-### Professional Certifications:
-
-<img src="images/ms-dp-300-certification.png" alt="Microsoft Certified: Azure Fundamentals" height="auto" width="850">
-
-<img src="images/ms-dp-900-certification.png" alt="Microsoft Certified: Azure Fundamentals" height="auto" width="850">
-
-<img src="images/ms-az-900-certification.png" alt="Microsoft Certified: Azure Fundamentals" height="auto" width="850">
-
-<img src="images/certified-sql-developer.png" alt="Certified SQL Developer" height="auto" width="850">
+### AWS Exploratory and Learning Experience:
 
 <img src="images/aws-educate.png" alt="AWS Educate" height="auto" width="850">
 
