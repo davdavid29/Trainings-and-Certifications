@@ -22,6 +22,15 @@ This repository contains a list of trainings and certifications I have completed
 [**Databricks Certified Data Engineer Associate - Preparation**](https://www.udemy.com/certificate/UC-6408ecd1-aad0-4eed-af54-7419834269ad/)  by  **Udemy (Oct 2025)**
 -	Master the core concepts of data engineering on Databricks, including data ingestion, transformation, and optimization using the Lakehouse architecture. This comprehensive course prepares you to confidently pass the Databricks Certified Data Engineer Associate exam with hands-on labs and practice questions.
 
+[**Academy Accreditation - Databricks Fundamentals**](https://credentials.databricks.com/27d468e3-be24-4764-876c-ced02ef241ec#acc.isMYCJtI)  by  **Databricks (Aug 2025)**
+- A foundational accreditation that validates knowledge of the Databricks Data Intelligence Platform and its core concepts.
+- What you'll learn:
+	- Understand the principles of the Databricks Lakehouse Platform.
+	- Explore key components: Workspace, clusters, notebooks, and SQL.
+	- Learn how Delta Lake powers scalable and reliable data management.
+	- Grasp the basics of data ingestion, transformation, and collaboration.
+	- Recognize how Databricks supports data engineering, data science, and BI use cases.
+
 [**Microsoft Excel - Excel from Beginner to Advanced**](https://www.udemy.com/certificate/UC-d08d89d0-3496-4389-a102-27c283c7da20/)  by  **Udemy (June 2025)**
  -	**The complete Microsoft Excel course — compatible with MS Office 365 and all Excel versions. Zero to HERO!**
  -	What you'll learn:
@@ -252,15 +261,6 @@ This repository contains a list of trainings and certifications I have completed
 
 [**Databricks Certified Data Engineer Associate**](https://credentials.databricks.com/6fc37c8f-4dae-4d00-a47b-722b38a75d12#acc.uD9G3jWE)  by  **Databricks (Oct 2025)**
 - The Databricks Certified Data Engineer Associate certification exam assesses an individual’s ability to use the Databricks Lakehouse Platform to complete introductory data engineering tasks. This includes an understanding of the Lakehouse Platform and its workspace, its architecture, and its capabilities. It also assesses the ability to perform multi-hop architecture ETL tasks using Apache Spark™ SQL and Python in both batch and incrementally processed paradigms. Finally, the exam assesses the tester’s ability to put basic ETL pipelines and Databricks SQL queries and dashboards into production while maintaining entity permissions. Individuals who pass this certification exam can be expected to complete basic data engineering tasks using Databricks and its associated tools.
-
-[**Academy Accreditation - Databricks Fundamentals**](https://credentials.databricks.com/27d468e3-be24-4764-876c-ced02ef241ec#acc.isMYCJtI)  by  **Databricks (Aug 2025)**
-- A foundational accreditation that validates knowledge of the Databricks Data Intelligence Platform and its core concepts.
-- What you'll learn:
-	- Understand the principles of the Databricks Lakehouse Platform.
-	- Explore key components: Workspace, clusters, notebooks, and SQL.
-	- Learn how Delta Lake powers scalable and reliable data management.
-	- Grasp the basics of data ingestion, transformation, and collaboration.
-	- Recognize how Databricks supports data engineering, data science, and BI use cases.
 
 **[Microsoft Certified: Azure Database Administrator Associate (2x Certified)](https://learn.microsoft.com/en-us/users/davdavid29/credentials/75e0cc27d618862a)** by **Microsoft (Mar 2025)**
 - The Microsoft DP-300 Azure Database Administrator Associate certification assesses expertise in managing and implementing Microsoft Azure database solutions, catering to professionals responsible for database administration and optimization. Covering essential topics such as database security, performance monitoring, backup and recovery, high availability, and automation, this certification validates proficiency in administering and securing Azure SQL databases. Passing the exam demonstrates competence in configuring and maintaining Azure database environments, optimizing database performance, implementing security measures, and ensuring business continuity through backup and recovery strategies.
