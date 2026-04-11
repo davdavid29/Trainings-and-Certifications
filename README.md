@@ -198,9 +198,6 @@ This repository contains a list of trainings and certifications I have completed
 		- How are personal data classified?
 		- Personal data breach notification procedure.
 
-[**Emerging Leader Training**](https://www.credential.net/c8109d0b-53f5-42fd-870b-da12e2ca08a4#gs.6dho8c) by **Inchcape Digital (Oct 2023)**
-- This digital credential is awarded to Inchapers who have attended, completed and exhibited the skills and knowledge from the Emerging Leader Training: The Next Generation held in Acacia Hotel Manila from October 12-13, 2023 . The recipients of this digital credential possess the essential competencies that makes an Inchcape Digital Leader best-in-class as they exhibit One Inchcape Values and Behaviour.
-
 [**Philippine Data Privacy Act of 2012 (PDPA) and the UK General Data Protection Regulation (UK GDPR)**](https://www.udemy.com/certificate/UC-56a003ec-de59-447b-9bd2-f110b0b7ae1c/) by **Udemy (Sept 2023)**
 - This course gives employees an overview of two (2) regulations in Data Privacy namely the  Philippine Data Privacy Act of 2012 (PDPA) and the UK General Data Protection Regulation (UK GDPR). The course will cover the following topics:
 	-	The definition of personal information
@@ -270,6 +267,9 @@ This repository contains a list of trainings and certifications I have completed
 
 **[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/davdavid29/credentials/c844766dc454a6ba?ref=https%3A%2F%2Fwww.linkedin.com%2F)** by **Microsoft (Apr 2024)**
 - The Microsoft AZ-900 Azure Fundamentals certification assesses foundational knowledge of cloud services and Microsoft Azure, catering to beginners in cloud computing. Covering essential concepts like cloud models, core Azure services, pricing, governance, security, and monitoring, the certification validates an understanding of fundamental cloud principles and Azure functionalities. Passing the exam demonstrates competence in describing basic cloud concepts, identifying key Azure services, and comprehending Azure pricing, governance, security, and monitoring fundamentals.
+
+[**Emerging Leader Training**](https://www.credential.net/c8109d0b-53f5-42fd-870b-da12e2ca08a4#gs.6dho8c) by **Inchcape Digital via DDI (Oct 2023)**
+- This digital credential is awarded to individuals who have attended, completed, and demonstrated the skills and knowledge from the Emerging Leader Training: The Next Generation. The program was held at Acacia Hotel Manila from October 12–13, 2023. Recipients of this credential possess essential leadership competencies, including values-driven behavior, effective communication, and decision-making aligned with modern leadership standards.
  
  **[Certified SQL Developer](https://verify.w3schools.com/1NCSKCULU1)** by **W3Schools (Jan 2023)**
  - This certification validates my skills and knowledge in SQL, including database design, querying, and optimization. The certification exam covered the following topics:
