@@ -268,7 +268,7 @@ This repository contains a list of trainings and certifications I have completed
 **[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/davdavid29/credentials/c844766dc454a6ba?ref=https%3A%2F%2Fwww.linkedin.com%2F)** by **Microsoft (Apr 2024)**
 - The Microsoft AZ-900 Azure Fundamentals certification assesses foundational knowledge of cloud services and Microsoft Azure, catering to beginners in cloud computing. Covering essential concepts like cloud models, core Azure services, pricing, governance, security, and monitoring, the certification validates an understanding of fundamental cloud principles and Azure functionalities. Passing the exam demonstrates competence in describing basic cloud concepts, identifying key Azure services, and comprehending Azure pricing, governance, security, and monitoring fundamentals.
 
-[**Emerging Leader Training**](https://www.credential.net/c8109d0b-53f5-42fd-870b-da12e2ca08a4#gs.6dho8c) by **Inchcape Digital via DDI (Oct 2023)**
+[**Emerging Leader Training**](https://www.credential.net/c8109d0b-53f5-42fd-870b-da12e2ca08a4#gs.6dho8c) by **Inchcape Digital via DDI | Development Dimensions International (Oct 2023)**
 - This digital credential is awarded to individuals who have attended, completed, and demonstrated the skills and knowledge from the Emerging Leader Training: The Next Generation. The program was held at Acacia Hotel Manila from October 12–13, 2023. Recipients of this credential possess essential leadership competencies, including values-driven behavior, effective communication, and decision-making aligned with modern leadership standards.
  
  **[Certified SQL Developer](https://verify.w3schools.com/1NCSKCULU1)** by **W3Schools (Jan 2023)**
