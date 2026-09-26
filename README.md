@@ -19,6 +19,16 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Trainings and Certifications
 
+[**Academy Accreditation - Generative AI Fundamentals**](https://credentials.databricks.com/db4c2df7-f7de-4aff-bd94-5d68f0d70c94#acc.LO8tIPsq) by **Databricks (June 2026)**
+- A foundational accreditation that validates knowledge of generative AI concepts and their applications within the Databricks Data Intelligence Platform.
+- What you'll learn:
+	- Understand the fundamentals of generative AI and large language models (LLMs).
+	- Explore key concepts including prompts, tokens, embeddings, and vector search.
+	- Learn how generative AI applications can retrieve, process, and generate information.
+	- Grasp the basics of Retrieval-Augmented Generation (RAG) and grounding LLM responses with enterprise data.
+	- Recognize key considerations for building secure, reliable, and responsible generative AI applications.
+	- Understand how Databricks supports the development, evaluation, deployment, and governance of generative AI solutions.
+
 [**Databricks Certified Data Engineer Associate - Preparation**](https://www.udemy.com/certificate/UC-6408ecd1-aad0-4eed-af54-7419834269ad/)  by  **Udemy (Oct 2025)**
 -	Master the core concepts of data engineering on Databricks, including data ingestion, transformation, and optimization using the Lakehouse architecture. This comprehensive course prepares you to confidently pass the Databricks Certified Data Engineer Associate exam with hands-on labs and practice questions.
 
