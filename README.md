@@ -263,6 +263,11 @@ This repository contains a list of trainings and certifications I have completed
 
 ## Passed Certification Exams
 
+[**Databricks Certified Generative AI Engineer Associate**](https://credentials.databricks.com/2a9df925-0897-47b8-8379-4c2d75911b3b#acc.VeK47vTA) by **Databricks (Sep 2026)**
+- The Databricks Certified Generative AI Engineer Associate certification exam assesses an individual’s ability to design and implement LLM-enabled solutions using Databricks. This includes decomposing complex requirements into manageable tasks and selecting appropriate models, tools, and approaches from the generative AI landscape to develop comprehensive solutions.
+- It also evaluates the use of Databricks-specific capabilities such as Vector Search for semantic similarity search, Model Serving for deploying models and AI solutions, MLflow for managing the solution lifecycle, and Unity Catalog for data governance and access control.
+- Individuals who pass this certification exam can be expected to build, evaluate, and deploy performant Retrieval-Augmented Generation (RAG) applications and LLM chains that leverage Databricks and its integrated generative AI toolset.
+
 [**Academy Accreditation - Generative AI Fundamentals**](https://credentials.databricks.com/db4c2df7-f7de-4aff-bd94-5d68f0d70c94#acc.LO8tIPsq) by **Databricks (June 2026)**
 - A foundational accreditation that validates knowledge of generative AI concepts and their applications within the Databricks Data Intelligence Platform.
 - What you'll learn:
@@ -273,15 +278,15 @@ This repository contains a list of trainings and certifications I have completed
 	- Recognize key considerations for building secure, reliable, and responsible generative AI applications.
 	- Understand how Databricks supports the development, evaluation, deployment, and governance of generative AI solutions.
 
-[**Databricks Certified Data Analyst Associate**](https://credentials.databricks.com/802138cb-2e9c-4bc7-a0c1-78757708e875#acc.KBjYHr34)  by  **Databricks (Apr 2026)**
+[**Databricks Certified Data Analyst Associate**](https://credentials.databricks.com/802138cb-2e9c-4bc7-a0c1-78757708e875#acc.KBjYHr34) by **Databricks (Apr 2026)**
 - The Databricks Certified Data Analyst Associate certification exam assesses an individual’s ability to use the Databricks Lakehouse Platform to perform core data analysis tasks. This includes proficiency in Databricks SQL for querying and transforming data, along with a strong understanding of fundamental data analysis concepts such as aggregation, filtering, data interpretation, and exploratory analysis.
 - It also evaluates the ability to leverage tools such as Databricks AI/BI Dashboards and Databricks AI/BI Genie to deliver insights through interactive and conversational analytics, as well as the use of Databricks Assistant to improve productivity in query development and analysis. Additionally, the exam assesses the application of best practices in data modeling, governance, and access control within Databricks.
 - Individuals who pass this certification exam can be expected to perform end-to-end analytical workflows, from data exploration and transformation to insight generation and dashboard delivery, using Databricks and its AI-powered analytics capabilities.
 
-[**Databricks Certified Data Engineer Associate**](https://credentials.databricks.com/6fc37c8f-4dae-4d00-a47b-722b38a75d12#acc.uD9G3jWE)  by  **Databricks (Oct 2025)**
+[**Databricks Certified Data Engineer Associate**](https://credentials.databricks.com/6fc37c8f-4dae-4d00-a47b-722b38a75d12#acc.uD9G3jWE) by **Databricks (Oct 2025)**
 - The Databricks Certified Data Engineer Associate certification exam assesses an individual’s ability to use the Databricks Lakehouse Platform to complete introductory data engineering tasks. This includes an understanding of the Lakehouse Platform and its workspace, its architecture, and its capabilities. It also assesses the ability to perform multi-hop architecture ETL tasks using Apache Spark™ SQL and Python in both batch and incrementally processed paradigms. Finally, the exam assesses the tester’s ability to put basic ETL pipelines and Databricks SQL queries and dashboards into production while maintaining entity permissions. Individuals who pass this certification exam can be expected to complete basic data engineering tasks using Databricks and its associated tools.
 
-[**Academy Accreditation - Databricks Fundamentals**](https://credentials.databricks.com/27d468e3-be24-4764-876c-ced02ef241ec#acc.isMYCJtI)  by  **Databricks (Aug 2025)**
+[**Academy Accreditation - Databricks Fundamentals**](https://credentials.databricks.com/27d468e3-be24-4764-876c-ced02ef241ec#acc.isMYCJtI) by **Databricks (Aug 2025)**
 - A foundational accreditation that validates knowledge of the Databricks Data Intelligence Platform and its core concepts.
 - What you'll learn:
 	- Understand the principles of the Databricks Lakehouse Platform.
